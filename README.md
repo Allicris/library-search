@@ -1,7 +1,7 @@
 # Library Search
 
 ## Description 
-
+This website is for the use of a user being able to log in and search and save books they are interested in reading.
 
 ## Table of Contents
 -[User Story](#User-Story)
