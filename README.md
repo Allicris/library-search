@@ -64,8 +64,15 @@ Github: https://github.com/Allicris/library-search
 Website link: https://library-search11-40b9725da4f8.herokuapp.com/
 Video Link: https://drive.google.com/file/d/1hUv_NMGvgdLrZML9OqZGCNTJV4s0ilYM/view
 
-## Screenshots
-
+## User Interface
+### Home Page
+![Home Page](./public/homepage.png)
+### Log in
+![Log in](./public/login.png)
+### Search Books
+![Search Books](./public/searchbooks.png)
+### Saved Books
+![Saved Books](./public/savedbooks.png)
 
 ## Credits
 I would like to give credit to my bootcamp tutor, Jeyyun Jung, he helped me fix a few bugs and also helped me getting started on deploying the website. I would also like to give credit to randiferous on Github, this is mostly his code and it gave me a great understandong of how to work with a MERN application. 
